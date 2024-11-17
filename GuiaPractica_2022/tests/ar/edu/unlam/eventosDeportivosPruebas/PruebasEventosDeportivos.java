@@ -122,7 +122,7 @@ public class PruebasEventosDeportivos {
 		
 	}
 	@Test //#6
-	public void queSePuedaVerificarUnListadoSociosOrdenadosPorSuOrenNaturalNumeroDeSocio() {
+	public void queSePuedaVerificarUnListadoSociosOrdenadosPorSuOrdenNaturalNumeroDeSocio() {
 		//ENTRADA
 		TriAtleta tri1,tri2;
 		Ciclista ciclista1,ciclista2;
